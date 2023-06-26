@@ -24,8 +24,9 @@ list_of_file = [
     "app.py",
     "main.py",
     "Dockerfile",
-    "requirements.txt" "setup.py",
+    "requirements.txt",
     "research/trials.ipynb",
+    "setup.py",
 ]
 
 for filepath in list_of_file:
